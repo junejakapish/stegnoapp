@@ -1,6 +1,8 @@
 # Stegnoapp
 
->>>REQUIREMENTS:<<<
+>>>REQUIREMENTS:>>>
+
+
 Python 3.x
 tkinter
 pillow
