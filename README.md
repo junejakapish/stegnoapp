@@ -1,11 +1,13 @@
 # Stegnoapp
 
->>>REQUIREMENTS:>>>
+>>>REQUIREMENTS:
 
 
-Python 3.x
-tkinter
-pillow
+1. Python 3.x
+   
+2.tkinter
+
+3.pillow
 
 
 >>>How it works:
