@@ -5,9 +5,9 @@
 
 1. Python 3.x
    
-2.tkinter
+2. tkinter
 
-3.pillow
+3. pillow
 
 
 >>>How it works:
